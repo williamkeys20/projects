@@ -1,0 +1,3 @@
+What is the command you run to initialize a github repository?
+git init
+

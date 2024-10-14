@@ -1,0 +1,33 @@
+CREATE TABLE PlayerInfo
+(
+  player_id
+  player_name
+  player_number
+  player_date_of_birth
+  player_address
+)
+
+CREATE TABLE GUARDIAN
+(
+  guardian_name
+  guardian_email
+)
+
+CREATE TABLE COACH
+(
+  coach_name
+  coach_email
+)
+
+CREATE TABLE SEASON
+(
+  season_start
+  season_end
+)
+
+CREATE TABLE SCHOOL
+(
+   school_address
+   team_name
+)  
+  
